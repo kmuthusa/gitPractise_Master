@@ -4,5 +4,8 @@ hey new file
 hey this is 6.1 edit
 hey this is 6.1 second edit.
 hey this is 6.1 third edit.
-
-Hey this is 6.1 fourth edit.
+Hi this is a 6.2 edit
+Hi this is a 6.2 second edit
+Hi this is a 6.2 third edit
+Hi this is a 6.2 fourth edit.
+Combined edit for 6.1 and 6.2
